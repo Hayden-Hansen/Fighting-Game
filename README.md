@@ -10,7 +10,7 @@ Youtube channel that will help turn you into a pro game developer!
 
 There are a few ways that I imporved this game once I had completed it:
 - In Chris' version, once a fighter has no health, they can still get in a number of hits before they hit the ground, and thus tie the game and change the outcome!
-  I have corrected that. Now when a fighter runs out of health, th game freezes completely and is over
+  I have corrected that. Now when a fighter runs out of health, the game freezes completely and the round is over
 - Put separate strengths and weaknesses on each fighter so that there skill level matches up (left fighter cannot jump as high or draw his weapon as fast, but his hits
   do more damage. Right fighter can jump higher and draw his weapon faster, but his hits do less damage)
 - Putting the controls on the site page
