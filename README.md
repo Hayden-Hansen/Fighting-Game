@@ -17,5 +17,5 @@ There are a few ways that I imporved this game once I had completed it:
 - Other minor UI changes
 
 
-Building this game is a great way to get your foot in the door to becoming a game developer. Enjoy!
+Building this game is a great way to get your foot in the door to becoming a game developer, and this is just the first of many game projects that will be on my github. Enjoy!
 
